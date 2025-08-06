@@ -1,0 +1,1 @@
+Integrated MVVM with LiveData and DataBinding to simplify UI updates. Used a TenantViewModel to manage tenant information. Added LiveData transformation to show data in uppercase and included a tenant counter using LiveData.map().
